@@ -15,6 +15,7 @@ terraform apply
 <img width="450" height="335" alt="Pipeline" src="https://github.com/user-attachments/assets/1dc57b22-daa1-47c5-8068-a8d6f01fe13e" />
 
 ## Screenshot-GCP VM
+<img width="1412" height="700" alt="VM instances" src="https://github.com/user-attachments/assets/4127518f-f160-40f3-b902-d253752fe233" />
 
 
 ## Säkerhetsbeslut
